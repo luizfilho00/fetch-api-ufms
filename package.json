@@ -1,0 +1,25 @@
+{
+  "name": "Database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "pg": "^7.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizfilho00/fetch-api-ufms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizfilho00/fetch-api-ufms/issues"
+  },
+  "homepage": "https://github.com/luizfilho00/fetch-api-ufms#readme"
+}
